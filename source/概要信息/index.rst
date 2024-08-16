@@ -5,6 +5,7 @@
    :maxdepth: 2
 
    0001_解读命名规则/README
+   0002_解读算力/README
 
 
 
